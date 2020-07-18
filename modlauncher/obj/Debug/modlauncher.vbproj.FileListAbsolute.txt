@@ -1,0 +1,12 @@
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\modlauncher.exe.config
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\modlauncher.exe
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\modlauncher.pdb
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\modlauncher.xml
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.Form1.resources
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.Resources.resources
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.vbproj.GenerateResource.cache
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.vbproj.CoreCompileInputs.cache
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.exe
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.xml
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.pdb
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.vbprojAssemblyReference.cache

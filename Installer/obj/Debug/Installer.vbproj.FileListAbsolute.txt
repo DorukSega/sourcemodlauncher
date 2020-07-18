@@ -1,0 +1,14 @@
+C:\Users\DorukSega\source\repos\modlauncher\Installer\bin\Debug\Installer.exe.config
+C:\Users\DorukSega\source\repos\modlauncher\Installer\bin\Debug\Installer.exe
+C:\Users\DorukSega\source\repos\modlauncher\Installer\bin\Debug\Installer.pdb
+C:\Users\DorukSega\source\repos\modlauncher\Installer\bin\Debug\Installer.xml
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.vbprojAssemblyReference.cache
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.vbproj.ResolveComReference.cache
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.Installer.resources
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.Resources.resources
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.vbproj.GenerateResource.cache
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.vbproj.CoreCompileInputs.cache
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.exe
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.xml
+C:\Users\DorukSega\source\repos\modlauncher\Installer\obj\Debug\Installer.pdb

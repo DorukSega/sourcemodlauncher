@@ -1,0 +1,12 @@
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\Sourcemod Launcher.exe.config
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\Sourcemod Launcher.exe
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\Sourcemod Launcher.pdb
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\bin\Debug\Sourcemod Launcher.xml
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.Form1.resources
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\modlauncher.Resources.resources
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.vbproj.GenerateResource.cache
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.exe
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.xml
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.pdb
+C:\Users\DorukSega\source\repos\modlauncher\modlauncher\obj\Debug\Sourcemod Launcher.vbprojAssemblyReference.cache
