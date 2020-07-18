@@ -12,9 +12,9 @@ If you have any suggestions, bugs and questions please contact me at Discord Dms
 # Current Code Base Status and Tour
 ## Stable
 ### ModLauncher
-#### Feature completed, only version control and auto updater left to do
+Feature completed, only version control and auto updater left to do
 ## Work In Progress
 ### Installer
-#### It is half finished, still needs testing and I need to modify launcher itself to register files in the install location
+It is half finished, still needs testing and I need to modify launcher itself to register files in the install location
 ### Updater
-#### Not started coding it yet but it will be pretty much same with installer
+Not started coding it yet but it will be pretty much same with installer
